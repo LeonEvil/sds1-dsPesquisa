@@ -8,17 +8,17 @@ const Home = () => (
     <div className = "home-container">
         <div className = "home-text">
             <h1 className = "home-text-title">
-                Quais jogos a galera gosta mais?
+                Which games do the guys like the most?
             </h1>
 
             <h3 className = "home-text-subtitle">
-                Clique no botão abaixo e saiba quais são os jogos que os gamers estão escholendo!
+                Click on the button below and find out which games the players are playing!
             </h3>
 
             <Link to = "/records">
                 <div className = "home-actions">
                     <button className = "home-btn">
-                        QUERO SABER QUAIS SÃO
+                        I WANT TO KNOW MORE
                     </button>
 
                     <div className = "home-btn-icon">
