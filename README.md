@@ -44,5 +44,3 @@ App Screenshot
 ## :vhs:  Clonar esse projeto
 Utilize o comando `` git clone https://github.com/lucas-serafim/sds1-dsPesquisa.git `` em seu terminal git.<br>
 Com seu prompt de comando aberto na pasta do projeto, execute esse comando: ``npm start``<br>
-
-Criado por [Lucas Serafim.](https://github.com/LeonEvil/)
